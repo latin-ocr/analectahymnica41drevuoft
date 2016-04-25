@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./analectahymnica41drevuoft_00006.png"; bbox 0 0 1651 2700; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 350 249 1467 318">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 350 249 1467 318">
+     <span class='ocr_line' id='line_1_1' title="bbox 350 249 1467 318; baseline 0.004 -7"><span class='ocrx_word' id='word_1_1' title='bbox 350 249 800 315; x_wconf 64' lang='lat' dir='ltr'><strong>CHRISTANUS</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 844 252 1467 318; x_wconf 70' lang='lat' dir='ltr'>CAMPOLILIENSIS.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 731 457 1077 463">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 731 457 1077 463">
+     <span class='ocr_line' id='line_1_2' title="bbox 731 457 1077 463; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 731 457 1077 463; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 246 620 1563 722">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 246 620 1563 722">
+     <span class='ocr_line' id='line_1_3' title="bbox 246 620 1563 722; baseline 0.005 -7"><span class='ocrx_word' id='word_1_4' title='bbox 246 620 735 719; x_wconf 74' lang='lat' dir='ltr'>Christans</span> <span class='ocrx_word' id='word_1_5' title='bbox 806 652 988 720; x_wconf 83' lang='lat' dir='ltr'>von</span> <span class='ocrx_word' id='word_1_6' title='bbox 1062 625 1563 722; x_wconf 76' lang='lat' dir='ltr'>Lilienfeld</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 387 868 1413 966">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 387 868 1413 966">
+     <span class='ocr_line' id='line_1_4' title="bbox 387 868 1413 966; baseline 0.003 -24"><span class='ocrx_word' id='word_1_7' title='bbox 387 868 681 963; x_wconf 73' lang='lat' dir='ltr'><strong>Hymen,</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 735 869 1003 961; x_wconf 73' lang='lat' dir='ltr'><strong>Offissien‚</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1059 870 1413 966; x_wconf 72' lang='lat' dir='ltr'>Sequenzen</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 702 1146 1093 1240">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 702 1146 1093 1240">
+     <span class='ocr_line' id='line_1_5' title="bbox 702 1146 1093 1240; baseline 0 -21"><span class='ocrx_word' id='word_1_10' title='bbox 702 1146 1093 1240; x_wconf 72' lang='lat' dir='ltr'>Reimgebete</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 754 1377 1038 1421">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 754 1377 1038 1421">
+     <span class='ocr_line' id='line_1_6' title="bbox 754 1377 1038 1421; baseline 0.007 -12"><span class='ocrx_word' id='word_1_11' title='bbox 754 1377 1038 1421; x_wconf 70' lang='lat' dir='ltr'>eeeeeeeeeeeee</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 837 2425 942 2459">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 837 2425 942 2459">
+     <span class='ocr_line' id='line_1_7' title="bbox 837 2425 942 2459; baseline 0 -1"><span class='ocrx_word' id='word_1_12' title='bbox 837 2425 942 2459; x_wconf 83' lang='lat'>11111</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
